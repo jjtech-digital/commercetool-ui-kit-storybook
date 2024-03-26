@@ -12,6 +12,8 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
+    "@commercetools-frontend/ui-kit": "^19.0.0",
+    "@commercetools-uikit/design-system": "^19.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
